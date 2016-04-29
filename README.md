@@ -10,5 +10,5 @@ I even tried dnvm upgrade, which upgraded dnx to dnx-clr-win-x86.1.0.0-rc1-updat
 
 But I still get the same error.
 
-Error Details: An error occured attempting to determine the process id of the DNX process hosting your application
+Error Details: An error occurred attempting to determine the process id of the DNX process hosting your application
 
